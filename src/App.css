@@ -1,0 +1,10 @@
+.App-Header {
+    background-color: cyan;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.App-Footer {
+    background-color: silver;
+    padding: 10px;
+}
